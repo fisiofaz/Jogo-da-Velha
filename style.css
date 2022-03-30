@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2? family= Justo & family= Sarala:wght@400;700 & display=swap');
+
+body {
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: 'Righteous', cursive;
+  font-family: 'Sarala', sans-serif;
+}
+.quadrado {
+  text-align: center;
+  width: 50px;
+  background: #eee;
+  display: inline-block;
+  padding: 40px;
+  font-size: 60px;
+  margin: 5px;
+  cursor: pointer;
+  color: #eee;
+}
+
+.jogador, .vencedor {
+  font-size: 30px;
+  margin-top: 10px;
+  font-weight: 400;
+  font-family: 'Righteous', cursive;
+  font-family: 'Sarala', sans-serif;
+}
+
+.jogador {
+  color: blueviolet;
+}
+
+.vencedor {
+  color: red;
+}
+
+button {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  background: rgb(200, 233, 147);
+  cursor: pointer;
+  color: #000000;
+  font-weight: 700;
+  font-family: 'Righteous', cursive;
+  font-family: 'Sarala', sans-serif;
+}
+
